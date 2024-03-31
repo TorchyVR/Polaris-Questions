@@ -89,6 +89,7 @@ Drink 2 if you're in an animal avatar! (not furry)
 Drink 2 if you have animal parts on your avatar! (human)
 Drink 2 if you have LESS than 20 FPS right now!
 Drink 3 if you have MORE than 20 FPS right now!
-Drink if you're using an Index Headset
-Drink if you're using a Vive Headset
-Drink if you're using a Quest Headset
+Drink if you're using an Index Headset!
+Drink if you're using a Vive Headset!
+Drink if you're using a Quest Headset!
+Drink if you've spun the wheel!

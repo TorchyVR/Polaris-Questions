@@ -84,7 +84,7 @@ Drink 2 if you're drinking Tequila! (mixed drinks count)
 Drink 4 if you're drinking Beer! (Ciders/Sake count)
 Drink 1 if you're drinking Whiskey! (mixed drinks count)
 Drink 1 if you're drinking Gin! (mixed drinks count)
-Drink 3 if you're drinking Wine! (mixed drinks count)
+Drink 3 if you're drinking Wine! (ok Karen)
 Drink 2 if you're in an animal avatar! (not furry)
 Drink 2 if you have animal parts on your avatar! (human)
 Drink 2 if you have LESS than 20 FPS right now!

@@ -8,6 +8,17 @@ Give 2!
 Give 3!
 Give 4!
 Give 5!
+Drink 1 and spin again!
+Drink 2 and spin again!
+Drink 3 and spin again!
+Drink 4 and spin again!
+Drink 5 and spin again!
+Give 1 and spin again!
+Give 2 and spin again!
+Give 3 and spin again!
+Give 4 and spin again!
+Give 5 and spin again!
+Drink for everytime this prompt has appeared!
 Drink 2 and spin again!
 Pick someone and drink 2 with them!
 Sit in someone's lap until your next turn and drink 2!
@@ -32,6 +43,7 @@ Want a break from the ads (listening to spotify/youtube/apple music?) Take 3 sho
 Drink 2 if you have a VRC instagram!
 Drink 2 if you have earmuff mode on!
 Drink 2 if you use avatar culling!
+Drink for everytime this prompt has appeared!
 Visitor rank drink 5!
 New User rank drink 4!
 User rank drink 4!
@@ -47,8 +59,10 @@ Good rated avatars give 3
 Medium rated avatars take 2
 Poor rated avatars take 3
 Very Poor rated avatars take 5
+Drink for everytime this prompt has appeared!
 Drink for every light on your avatar (DPS)
 US East Coasters drink!
+Drink for everytime this prompt has appeared!
 US West Coasters drink!
 US Midwesterners drink!
 US Northerners Drink!
@@ -79,6 +93,7 @@ Drink 2 if you get motion sick!
 Drink 3 if you have face tracking you rich bitch!
 Drink 5 if you have a haptic vest rich bitch!
 Drink for every sex toy you own!
+Drink for everytime this prompt has appeared!
 Drink for every figurine you own!
 Drink for every plushie you own!
 Drink for every instrument you know how to play!
@@ -108,6 +123,7 @@ Drink for every club you've been to this week
 Drink for every club Discord you're in
 Drink 4 if you're jobless
 Give 2 if you have a job
+Drink for everytime this prompt has appeared!
 Drink 2 if you work a 9-5 (you deserve it)
 Drink 3 if you work retail (fuck people)
 Drink 3 if you work food server (I'm sorry)
@@ -129,7 +145,9 @@ Give 3 if you're in the 'Torchy's Tacos' group
 Give 5 if you've played RAID: SHADOW LEGENDS
 Take 4 if you've played RuneScape
 Take 5 if you play League of Legends
+Drink for everytime this prompt has appeared!
 Take 5 if you've actually beaten Minecraft (no cheats)
 Drink 3 if you've read Homestuck
 Take 3 if you're into 'knotting'
 Take 3 if you want a 'pawjob'
+Drink for everytime this prompt has appeared!
